@@ -1,10 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+9Bin's+GitHub!👋" alt="Typing SVG">
     </a>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee9Bin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
  <br>
     
 ## 🔨 Tech Stack 🔨
@@ -24,7 +21,12 @@
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-badge&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-badge&logo=vue.js&logoColor=white"> 
     </div>
-</div><br>
+</div>
+<br>
+    <div style="text-align:center;">
+            <a href="https://solved.ac/imagen33/">
+                <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imagen33" alt="Solved.ac Profile">
+            </a>
+    </div>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imagen33)](https://solved.ac/imagen33/)
