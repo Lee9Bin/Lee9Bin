@@ -23,10 +23,11 @@
     </div>
 </div>
 <br>
-    <div style="text-align:center;">
-            <a href="https://solved.ac/imagen33/">
-                <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imagen33" alt="Solved.ac Profile">
-            </a>
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <a href="https://solved.ac/imagen33/">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imagen33" alt="Solved.ac Profile">
+        </a>
+        <img src="http://mazandi.herokuapp.com/api?handle=imagen33&theme=dark" alt="mazandi"/>
     </div>
 </div>
 
