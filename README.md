@@ -23,5 +23,4 @@
 
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imagen33" alt="Solved.ac Profile" />
-  <img src="http://mazandi.herokuapp.com/api?handle=imagen33&theme=dark" alt="mazandi" />
 </p>
